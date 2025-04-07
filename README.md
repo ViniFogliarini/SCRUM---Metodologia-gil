@@ -1,3 +1,4 @@
+Podemos usar Trello ou Todoist
 PILARES
 Transparência
 Inspeção
